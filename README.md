@@ -10,3 +10,16 @@ This repository contains code for synthesizing Successive Control Barrier Functi
 4. Now clone this repo
 5. Run jupyter notebooks for each case study
 6. All plots are svaed in the 'figures' folder
+
+```bibtex
+@inproceedings{Wajid+Sankaranarayanan/2025/Successive,
+place={Irvine, CA, USA},
+series={HSCC ’25},
+title={Successive Control Barrier Functions for Nonlinear Systems},
+booktitle={Proceedings of the 28th International Conference on Hybrid Systems: Computation and Control},
+publisher={Association for Computing Machinery},
+author={Wajid, Rameez  and    Sankaranarayanan, Sriram}, year={2025},
+month={May},
+pages = { TBA }
+collection={HSCC ’25} }
+```
