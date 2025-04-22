@@ -9,7 +9,7 @@ This repository contains code for synthesizing Successive Control Barrier Functi
    
 4. Now clone this repo
 5. Run jupyter notebooks for each case study
-6. All plots are svaed in the 'figures' folder
+6. All plots are saved in the 'figures' folder
 
 ```bibtex
 @inproceedings{Wajid+Sankaranarayanan/2025/Successive,
