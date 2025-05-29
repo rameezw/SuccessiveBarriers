@@ -1,5 +1,5 @@
 # SuccessiveBarriers
-This repository contains code for synthesizing Successive Control Barrier Functions. For details refer to our HSCC 2025 [paper]([https://home.cs.colorado.edu/~srirams/papers/successive-control-barrier-functions.pdf](https://dl.acm.org/doi/pdf/10.1145/3716863.3718043))
+This repository contains code for synthesizing Successive Control Barrier Functions. For details refer to our HSCC 2025 [paper](https://dl.acm.org/doi/pdf/10.1145/3716863.3718043)
 ## Getting started
 1. Download and install [Julia](https://julialang.org/). Installation instructions [here](https://docs.julialang.org/en/v1/manual/installation/).
 2. Install [Jupyter](https://jupyter.org/).
