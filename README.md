@@ -12,14 +12,20 @@ This repository contains code for synthesizing Successive Control Barrier Functi
 6. All plots are saved in the 'figures' folder
 
 ```bibtex
-@inproceedings{Wajid+Sankaranarayanan/2025/Successive,
-place={Irvine, CA, USA},
-series={HSCC ’25},
-title={Successive Control Barrier Functions for Nonlinear Systems},
-booktitle={Proceedings of the 28th International Conference on Hybrid Systems: Computation and Control},
-publisher={Association for Computing Machinery},
-author={Wajid, Rameez  and    Sankaranarayanan, Sriram}, year={2025},
-month={May},
-pages = { TBA }
-collection={HSCC ’25} }
+    @inproceedings{10.1145/3716863.3718043,
+    author = {Wajid, Rameez and Sankaranarayanan, Sriram},
+    title = {Successive Control Barrier Functions for Nonlinear Systems},
+    year = {2025},
+    isbn = {9798400715044},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3716863.3718043},
+    doi = {10.1145/3716863.3718043},
+    booktitle = {Proceedings of the 28th ACM International Conference on Hybrid Systems: Computation and Control},
+    articleno = {21},
+    numpages = {11},
+    keywords = {Control Barrier Functions, Nonlinear Hybrid Systems, Sum Of Squares Programming},
+    location = {Irvine, CA, USA},
+    series = {HSCC '25}
+    }
 ```
