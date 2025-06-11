@@ -17,7 +17,7 @@ This repository contains code for synthesizing Successive Control Barrier Functi
   author={Wajid, Rameez and Sankaranarayanan, Sriram},
   booktitle={Proceedings of the 28th ACM International Conference on Hybrid Systems: Computation and Control},
   pages={1--11},
-  year={2025}
+  year={2025},
   location = {Irvine, CA, USA},
   series = {HSCC '25},
   doi = {10.1145/3716863.3718043},
